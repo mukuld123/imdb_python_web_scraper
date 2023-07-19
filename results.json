@@ -1,0 +1,1502 @@
+{
+    "1": {
+        "name": "The Shawshank Redemption",
+        "rating": "9.3",
+        "year": "1994",
+        "duration": "2h 22m"
+    },
+    "2": {
+        "name": "The Godfather",
+        "rating": "9.2",
+        "year": "1972",
+        "duration": "2h 55m"
+    },
+    "3": {
+        "name": "The Dark Knight",
+        "rating": "9.0",
+        "year": "2008",
+        "duration": "2h 32m"
+    },
+    "4": {
+        "name": "The Godfather: Part II",
+        "rating": "9.0",
+        "year": "1974",
+        "duration": "3h 22m"
+    },
+    "5": {
+        "name": "12 Angry Men",
+        "rating": "9.0",
+        "year": "1957",
+        "duration": "1h 36m"
+    },
+    "6": {
+        "name": "Schindler's List",
+        "rating": "9.0",
+        "year": "1993",
+        "duration": "3h 15m"
+    },
+    "7": {
+        "name": "The Lord of the Rings: The Return of the King",
+        "rating": "9.0",
+        "year": "2003",
+        "duration": "3h 21m"
+    },
+    "8": {
+        "name": "Pulp Fiction",
+        "rating": "8.9",
+        "year": "1994",
+        "duration": "2h 34m"
+    },
+    "9": {
+        "name": "The Lord of the Rings: The Fellowship of the Ring",
+        "rating": "8.8",
+        "year": "2001",
+        "duration": "2h 58m"
+    },
+    "10": {
+        "name": "Il Buono, Il Brutto, Il Cattivo",
+        "rating": "8.8",
+        "year": "1966",
+        "duration": "2h 41m"
+    },
+    "11": {
+        "name": "Forrest Gump",
+        "rating": "8.8",
+        "year": "1994",
+        "duration": "2h 22m"
+    },
+    "12": {
+        "name": "Fight Club",
+        "rating": "8.8",
+        "year": "1999",
+        "duration": "2h 19m"
+    },
+    "13": {
+        "name": "The Lord of the Rings: The Two Towers",
+        "rating": "8.8",
+        "year": "2002",
+        "duration": "2h 59m"
+    },
+    "14": {
+        "name": "Spider-man: Across the Spider-verse",
+        "rating": "8.9",
+        "year": "2023",
+        "duration": "2h 20m"
+    },
+    "15": {
+        "name": "Inception",
+        "rating": "8.8",
+        "year": "2010",
+        "duration": "2h 28m"
+    },
+    "16": {
+        "name": "Star Wars: Episode V - The Empire Strikes Back",
+        "rating": "8.7",
+        "year": "1980",
+        "duration": "2h 4m"
+    },
+    "17": {
+        "name": "The Matrix",
+        "rating": "8.7",
+        "year": "1999",
+        "duration": "2h 16m"
+    },
+    "18": {
+        "name": "GoodFellas",
+        "rating": "8.7",
+        "year": "1990",
+        "duration": "2h 25m"
+    },
+    "19": {
+        "name": "One Flew Over the Cuckoo's Nest",
+        "rating": "8.7",
+        "year": "1975",
+        "duration": "2h 13m"
+    },
+    "20": {
+        "name": "Se7en",
+        "rating": "8.6",
+        "year": "1995",
+        "duration": "2h 7m"
+    },
+    "21": {
+        "name": "It's a Wonderful Life",
+        "rating": "8.6",
+        "year": "1946",
+        "duration": "2h 10m"
+    },
+    "22": {
+        "name": "Shichinin No Samurai",
+        "rating": "8.6",
+        "year": "1954",
+        "duration": "3h 27m"
+    },
+    "23": {
+        "name": "The Silence of the Lambs",
+        "rating": "8.6",
+        "year": "1991",
+        "duration": "1h 58m"
+    },
+    "24": {
+        "name": "Saving Private Ryan",
+        "rating": "8.6",
+        "year": "1998",
+        "duration": "2h 49m"
+    },
+    "25": {
+        "name": "Interstellar",
+        "rating": "8.7",
+        "year": "2014",
+        "duration": "2h 49m"
+    },
+    "26": {
+        "name": "City of God",
+        "rating": "8.6",
+        "year": "2002",
+        "duration": "2h 10m"
+    },
+    "27": {
+        "name": "Life Is Beautiful",
+        "rating": "8.6",
+        "year": "1997",
+        "duration": "1h 56m"
+    },
+    "28": {
+        "name": "The Green Mile",
+        "rating": "8.6",
+        "year": "1999",
+        "duration": "3h 9m"
+    },
+    "29": {
+        "name": "Star Wars: Episode IV - A New Hope",
+        "rating": "8.6",
+        "year": "1977",
+        "duration": "2h 1m"
+    },
+    "30": {
+        "name": "Terminator 2: Judgment Day",
+        "rating": "8.6",
+        "year": "1991",
+        "duration": "2h 17m"
+    },
+    "31": {
+        "name": "Back to the Future",
+        "rating": "8.5",
+        "year": "1985",
+        "duration": "1h 56m"
+    },
+    "32": {
+        "name": "Spirited Away",
+        "rating": "8.6",
+        "year": "2001",
+        "duration": "2h 5m"
+    },
+    "33": {
+        "name": "The Pianist",
+        "rating": "8.5",
+        "year": "2002",
+        "duration": "2h 30m"
+    },
+    "34": {
+        "name": "Psycho",
+        "rating": "8.5",
+        "year": "1960",
+        "duration": "1h 49m"
+    },
+    "35": {
+        "name": "Parasite",
+        "rating": "8.5",
+        "year": "2019",
+        "duration": "2h 12m"
+    },
+    "36": {
+        "name": "L\u00e9on",
+        "rating": "8.5",
+        "year": "1994",
+        "duration": "1h 50m"
+    },
+    "37": {
+        "name": "The Lion King",
+        "rating": "8.5",
+        "year": "1994",
+        "duration": "1h 28m"
+    },
+    "38": {
+        "name": "Gladiator",
+        "rating": "8.5",
+        "year": "2000",
+        "duration": "2h 35m"
+    },
+    "39": {
+        "name": "American History X",
+        "rating": "8.5",
+        "year": "1998",
+        "duration": "1h 59m"
+    },
+    "40": {
+        "name": "The Departed",
+        "rating": "8.5",
+        "year": "2006",
+        "duration": "2h 31m"
+    },
+    "41": {
+        "name": "Whiplash",
+        "rating": "8.5",
+        "year": "2014",
+        "duration": "1h 46m"
+    },
+    "42": {
+        "name": "The Prestige",
+        "rating": "8.5",
+        "year": "2006",
+        "duration": "2h 10m"
+    },
+    "43": {
+        "name": "The Usual Suspects",
+        "rating": "8.5",
+        "year": "1995",
+        "duration": "1h 46m"
+    },
+    "44": {
+        "name": "Casablanca",
+        "rating": "8.5",
+        "year": "1942",
+        "duration": "1h 42m"
+    },
+    "45": {
+        "name": "Grave of the Fireflies",
+        "rating": "8.5",
+        "year": "1988",
+        "duration": "1h 29m"
+    },
+    "46": {
+        "name": "Seppuku",
+        "rating": "8.6",
+        "year": "1962",
+        "duration": "2h 13m"
+    },
+    "47": {
+        "name": "Intouchables",
+        "rating": "8.5",
+        "year": "2011",
+        "duration": "1h 52m"
+    },
+    "48": {
+        "name": "Modern Times",
+        "rating": "8.5",
+        "year": "1936",
+        "duration": "1h 27m"
+    },
+    "49": {
+        "name": "Cinema Paradiso",
+        "rating": "8.5",
+        "year": "1988",
+        "duration": "2h 35m"
+    },
+    "50": {
+        "name": "C'era Una Volta Il West",
+        "rating": "8.5",
+        "year": "1968",
+        "duration": "2h 45m"
+    },
+    "51": {
+        "name": "Rear Window",
+        "rating": "8.5",
+        "year": "1954",
+        "duration": "1h 52m"
+    },
+    "52": {
+        "name": "Alien",
+        "rating": "8.5",
+        "year": "1979",
+        "duration": "1h 57m"
+    },
+    "53": {
+        "name": "City Lights",
+        "rating": "8.5",
+        "year": "1931",
+        "duration": "1h 27m"
+    },
+    "54": {
+        "name": "Apocalypse Now",
+        "rating": "8.4",
+        "year": "1979",
+        "duration": "2h 27m"
+    },
+    "55": {
+        "name": "Memento",
+        "rating": "8.4",
+        "year": "2000",
+        "duration": "1h 53m"
+    },
+    "56": {
+        "name": "Django Unchained",
+        "rating": "8.4",
+        "year": "2012",
+        "duration": "2h 45m"
+    },
+    "57": {
+        "name": "Raiders of the Lost Ark",
+        "rating": "8.4",
+        "year": "1981",
+        "duration": "1h 55m"
+    },
+    "58": {
+        "name": "WALL\u00b7E",
+        "rating": "8.4",
+        "year": "2008",
+        "duration": "1h 38m"
+    },
+    "59": {
+        "name": "Das Leben der Anderen",
+        "rating": "8.4",
+        "year": "2006",
+        "duration": "2h 17m"
+    },
+    "60": {
+        "name": "Sunset Blvd",
+        "rating": "8.4",
+        "year": "1950",
+        "duration": "1h 50m"
+    },
+    "61": {
+        "name": "Paths of Glory",
+        "rating": "8.4",
+        "year": "1957",
+        "duration": "1h 28m"
+    },
+    "62": {
+        "name": "Avengers: Infinity War",
+        "rating": "8.4",
+        "year": "2018",
+        "duration": "2h 29m"
+    },
+    "63": {
+        "name": "The Shining",
+        "rating": "8.4",
+        "year": "1980",
+        "duration": "2h 26m"
+    },
+    "64": {
+        "name": "The Great Dictator",
+        "rating": "8.4",
+        "year": "1940",
+        "duration": "2h 5m"
+    },
+    "65": {
+        "name": "Witness for the Prosecution",
+        "rating": "8.4",
+        "year": "1957",
+        "duration": "1h 56m"
+    },
+    "66": {
+        "name": "Spider-Man: Into the Spider-Verse",
+        "rating": "8.4",
+        "year": "2018",
+        "duration": "1h 57m"
+    },
+    "67": {
+        "name": "Alien 2",
+        "rating": "8.4",
+        "year": "1986",
+        "duration": "2h 17m"
+    },
+    "68": {
+        "name": "American Beauty",
+        "rating": "8.3",
+        "year": "1999",
+        "duration": "2h 2m"
+    },
+    "69": {
+        "name": "The Dark Knight Rises",
+        "rating": "8.4",
+        "year": "2012",
+        "duration": "2h 44m"
+    },
+    "70": {
+        "name": "Dr",
+        "rating": "8.4",
+        "year": "1964",
+        "duration": "1h 35m"
+    },
+    "71": {
+        "name": "Inglourious Basterds",
+        "rating": "8.3",
+        "year": "2009",
+        "duration": "2h 33m"
+    },
+    "72": {
+        "name": "Oldeuboi",
+        "rating": "8.4",
+        "year": "2003",
+        "duration": "1h 41m"
+    },
+    "73": {
+        "name": "Coco",
+        "rating": "8.4",
+        "year": "2017",
+        "duration": "1h 45m"
+    },
+    "74": {
+        "name": "Amadeus",
+        "rating": "8.4",
+        "year": "1984",
+        "duration": "2h 40m"
+    },
+    "75": {
+        "name": "Toy Story",
+        "rating": "8.3",
+        "year": "1995",
+        "duration": "1h 21m"
+    },
+    "76": {
+        "name": "Braveheart",
+        "rating": "8.3",
+        "year": "1995",
+        "duration": "2h 58m"
+    },
+    "77": {
+        "name": "Das Boot",
+        "rating": "8.4",
+        "year": "1981",
+        "duration": "2h 29m"
+    },
+    "78": {
+        "name": "Joker",
+        "rating": "8.4",
+        "year": "2019",
+        "duration": "2h 2m"
+    },
+    "79": {
+        "name": "Avengers: Endgame",
+        "rating": "8.4",
+        "year": "2019",
+        "duration": "3h 1m"
+    },
+    "80": {
+        "name": "Mononoke-hime",
+        "rating": "8.3",
+        "year": "1997",
+        "duration": "2h 14m"
+    },
+    "81": {
+        "name": "Good Will Hunting",
+        "rating": "8.3",
+        "year": "1997",
+        "duration": "2h 6m"
+    },
+    "82": {
+        "name": "Once Upon a Time in America",
+        "rating": "8.3",
+        "year": "1984",
+        "duration": "3h 49m"
+    },
+    "83": {
+        "name": "Kimi No Na Wa",
+        "rating": "8.4",
+        "year": "2016",
+        "duration": "1h 46m"
+    },
+    "84": {
+        "name": "3 Idiots",
+        "rating": "8.4",
+        "year": "2009",
+        "duration": "2h 50m"
+    },
+    "85": {
+        "name": "Singin' in the Rain",
+        "rating": "8.3",
+        "year": "1952",
+        "duration": "1h 43m"
+    },
+    "86": {
+        "name": "Tengoku to Jigoku",
+        "rating": "8.4",
+        "year": "1963",
+        "duration": "2h 23m"
+    },
+    "87": {
+        "name": "Requiem for a Dream",
+        "rating": "8.3",
+        "year": "2000",
+        "duration": "1h 42m"
+    },
+    "88": {
+        "name": "Capharna\u00fcm",
+        "rating": "8.4",
+        "year": "2018",
+        "duration": "2h 6m"
+    },
+    "89": {
+        "name": "Toy Story 3",
+        "rating": "8.3",
+        "year": "2010",
+        "duration": "1h 43m"
+    },
+    "90": {
+        "name": "Star Wars: Episode VI - Return of the Jedi",
+        "rating": "8.3",
+        "year": "1983",
+        "duration": "2h 11m"
+    },
+    "91": {
+        "name": "Idi I Smotri",
+        "rating": "8.4",
+        "year": "1985",
+        "duration": "2h 22m"
+    },
+    "92": {
+        "name": "Eternal Sunshine of the Spotless Mind",
+        "rating": "8.3",
+        "year": "2004",
+        "duration": "1h 48m"
+    },
+    "93": {
+        "name": "2001: A Space Odyssey",
+        "rating": "8.3",
+        "year": "1968",
+        "duration": "2h 29m"
+    },
+    "94": {
+        "name": "Jagten",
+        "rating": "8.3",
+        "year": "2012",
+        "duration": "1h 55m"
+    },
+    "95": {
+        "name": "Reservoir Dogs",
+        "rating": "8.3",
+        "year": "1992",
+        "duration": "1h 39m"
+    },
+    "96": {
+        "name": "Lawrence of Arabia",
+        "rating": "8.3",
+        "year": "1962",
+        "duration": "3h 38m"
+    },
+    "97": {
+        "name": "Ikiru",
+        "rating": "8.3",
+        "year": "1952",
+        "duration": "2h 23m"
+    },
+    "98": {
+        "name": "Citizen Kane",
+        "rating": "8.3",
+        "year": "1941",
+        "duration": "1h 59m"
+    },
+    "99": {
+        "name": "M - Eine Stadt sucht einen M\u00f6rder",
+        "rating": "8.3",
+        "year": "1931",
+        "duration": "1h 57m"
+    },
+    "100": {
+        "name": "North by Northwest",
+        "rating": "8.3",
+        "year": "1959",
+        "duration": "2h 16m"
+    },
+    "101": {
+        "name": "The Apartment",
+        "rating": "8.3",
+        "year": "1960",
+        "duration": "2h 5m"
+    },
+    "102": {
+        "name": "Vertigo",
+        "rating": "8.3",
+        "year": "1958",
+        "duration": "2h 8m"
+    },
+    "103": {
+        "name": "Le fabuleux destin d'Am\u00e9lie Poulain",
+        "rating": "8.3",
+        "year": "2001",
+        "duration": "2h 2m"
+    },
+    "104": {
+        "name": "Double Indemnity",
+        "rating": "8.3",
+        "year": "1944",
+        "duration": "1h 47m"
+    },
+    "105": {
+        "name": "A Clockwork Orange",
+        "rating": "8.3",
+        "year": "1971",
+        "duration": "2h 16m"
+    },
+    "106": {
+        "name": "Full Metal Jacket",
+        "rating": "8.3",
+        "year": "1987",
+        "duration": "1h 56m"
+    },
+    "107": {
+        "name": "Scarface",
+        "rating": "8.3",
+        "year": "1983",
+        "duration": "2h 50m"
+    },
+    "108": {
+        "name": "Hamilton",
+        "rating": "8.3",
+        "year": "2020",
+        "duration": "2h 40m"
+    },
+    "109": {
+        "name": "Incendies",
+        "rating": "8.3",
+        "year": "2010",
+        "duration": "2h 11m"
+    },
+    "110": {
+        "name": "Heat",
+        "rating": "8.3",
+        "year": "1995",
+        "duration": "2h 50m"
+    },
+    "111": {
+        "name": "Up",
+        "rating": "8.3",
+        "year": "2009",
+        "duration": "1h 36m"
+    },
+    "112": {
+        "name": "To Kill a Mockingbird",
+        "rating": "8.3",
+        "year": "1962",
+        "duration": "2h 9m"
+    },
+    "113": {
+        "name": "The Sting",
+        "rating": "8.3",
+        "year": "1973",
+        "duration": "2h 9m"
+    },
+    "114": {
+        "name": "Jodaeiye Nader Az Simin",
+        "rating": "8.3",
+        "year": "2011",
+        "duration": "2h 3m"
+    },
+    "115": {
+        "name": "Indiana Jones and the Last Crusade",
+        "rating": "8.2",
+        "year": "1989",
+        "duration": "2h 7m"
+    },
+    "116": {
+        "name": "Metropolis",
+        "rating": "8.3",
+        "year": "1927",
+        "duration": "2h 33m"
+    },
+    "117": {
+        "name": "Die Hard",
+        "rating": "8.2",
+        "year": "1988",
+        "duration": "2h 12m"
+    },
+    "118": {
+        "name": "L",
+        "rating": "8.2",
+        "year": "1997",
+        "duration": "2h 18m"
+    },
+    "119": {
+        "name": "Snatch",
+        "rating": "8.2",
+        "year": "2000",
+        "duration": "1h 44m"
+    },
+    "120": {
+        "name": "Ladri Di Biciclette",
+        "rating": "8.3",
+        "year": "1948",
+        "duration": "1h 29m"
+    },
+    "121": {
+        "name": "Taxi Driver",
+        "rating": "8.2",
+        "year": "1976",
+        "duration": "1h 54m"
+    },
+    "122": {
+        "name": "Taare Zameen Par",
+        "rating": "8.3",
+        "year": "2007",
+        "duration": "2h 45m"
+    },
+    "123": {
+        "name": "1917",
+        "rating": "8.2",
+        "year": "2019",
+        "duration": "1h 59m"
+    },
+    "124": {
+        "name": "Dangal",
+        "rating": "8.3",
+        "year": "2016",
+        "duration": "2h 41m"
+    },
+    "125": {
+        "name": "Der Untergang",
+        "rating": "8.2",
+        "year": "2004",
+        "duration": "2h 36m"
+    },
+    "126": {
+        "name": "Top Gun: Maverick",
+        "rating": "8.3",
+        "year": "2022",
+        "duration": "2h 10m"
+    },
+    "127": {
+        "name": "Per qualche dollaro in pi\u00f9",
+        "rating": "8.2",
+        "year": "1965",
+        "duration": "2h 12m"
+    },
+    "128": {
+        "name": "Batman Begins",
+        "rating": "8.2",
+        "year": "2005",
+        "duration": "2h 20m"
+    },
+    "129": {
+        "name": "The Kid",
+        "rating": "8.3",
+        "year": "1921",
+        "duration": "1h 8m"
+    },
+    "130": {
+        "name": "Some Like It Hot",
+        "rating": "8.2",
+        "year": "1959",
+        "duration": "2h 1m"
+    },
+    "131": {
+        "name": "The Father",
+        "rating": "8.2",
+        "year": "2020",
+        "duration": "1h 37m"
+    },
+    "132": {
+        "name": "The Wolf of Wall Street",
+        "rating": "8.2",
+        "year": "2013",
+        "duration": "3h"
+    },
+    "133": {
+        "name": "Green Book",
+        "rating": "8.2",
+        "year": "2018",
+        "duration": "2h 10m"
+    },
+    "134": {
+        "name": "All About Eve",
+        "rating": "8.2",
+        "year": "1950",
+        "duration": "2h 18m"
+    },
+    "135": {
+        "name": "Judgment at Nuremberg",
+        "rating": "8.3",
+        "year": "1961",
+        "duration": "2h 59m"
+    },
+    "136": {
+        "name": "The Truman Show",
+        "rating": "8.2",
+        "year": "1998",
+        "duration": "1h 43m"
+    },
+    "137": {
+        "name": "Ran",
+        "rating": "8.2",
+        "year": "1985",
+        "duration": "2h 42m"
+    },
+    "138": {
+        "name": "Casino",
+        "rating": "8.2",
+        "year": "1995",
+        "duration": "2h 58m"
+    },
+    "139": {
+        "name": "There Will Be Blood",
+        "rating": "8.2",
+        "year": "2007",
+        "duration": "2h 38m"
+    },
+    "140": {
+        "name": "El Laberinto Del Fauno",
+        "rating": "8.2",
+        "year": "2006",
+        "duration": "1h 58m"
+    },
+    "141": {
+        "name": "Shutter Island",
+        "rating": "8.2",
+        "year": "2010",
+        "duration": "2h 18m"
+    },
+    "142": {
+        "name": "Unforgiven",
+        "rating": "8.2",
+        "year": "1992",
+        "duration": "2h 10m"
+    },
+    "143": {
+        "name": "The Sixth Sense",
+        "rating": "8.2",
+        "year": "1999",
+        "duration": "1h 47m"
+    },
+    "144": {
+        "name": "Jurassic Park",
+        "rating": "8.2",
+        "year": "1993",
+        "duration": "2h 7m"
+    },
+    "145": {
+        "name": "A Beautiful Mind",
+        "rating": "8.2",
+        "year": "2001",
+        "duration": "2h 15m"
+    },
+    "146": {
+        "name": "The Treasure of the Sierra Madre",
+        "rating": "8.2",
+        "year": "1948",
+        "duration": "2h 6m"
+    },
+    "147": {
+        "name": "Y\u00f4jinb\u00f4",
+        "rating": "8.2",
+        "year": "1961",
+        "duration": "1h 50m"
+    },
+    "148": {
+        "name": "No Country for Old Men",
+        "rating": "8.2",
+        "year": "2007",
+        "duration": "2h 2m"
+    },
+    "149": {
+        "name": "Monty Python and the Holy Grail",
+        "rating": "8.2",
+        "year": "1975",
+        "duration": "1h 31m"
+    },
+    "150": {
+        "name": "Kill Bill: Vol",
+        "rating": "8.2",
+        "year": "2003",
+        "duration": "1h 51m"
+    },
+    "151": {
+        "name": "The Great Escape",
+        "rating": "8.2",
+        "year": "1963",
+        "duration": "2h 52m"
+    },
+    "152": {
+        "name": "The Thing",
+        "rating": "8.2",
+        "year": "1982",
+        "duration": "1h 49m"
+    },
+    "153": {
+        "name": "Rash\u014dmon",
+        "rating": "8.2",
+        "year": "1950",
+        "duration": "1h 28m"
+    },
+    "154": {
+        "name": "Finding Nemo",
+        "rating": "8.2",
+        "year": "2003",
+        "duration": "1h 40m"
+    },
+    "155": {
+        "name": "Spider-Man: No Way Home",
+        "rating": "8.2",
+        "year": "2021",
+        "duration": "2h 28m"
+    },
+    "156": {
+        "name": "The Elephant Man",
+        "rating": "8.2",
+        "year": "1980",
+        "duration": "2h 4m"
+    },
+    "157": {
+        "name": "Chinatown",
+        "rating": "8.2",
+        "year": "1974",
+        "duration": "2h 10m"
+    },
+    "158": {
+        "name": "V for Vendetta",
+        "rating": "8.2",
+        "year": "2005",
+        "duration": "2h 12m"
+    },
+    "159": {
+        "name": "Raging Bull",
+        "rating": "8.1",
+        "year": "1980",
+        "duration": "2h 9m"
+    },
+    "160": {
+        "name": "Gone with the Wind",
+        "rating": "8.2",
+        "year": "1939",
+        "duration": "3h 58m"
+    },
+    "161": {
+        "name": "Dial M for Murder",
+        "rating": "8.2",
+        "year": "1954",
+        "duration": "1h 45m"
+    },
+    "162": {
+        "name": "Hauru No Ugoku Shiro",
+        "rating": "8.2",
+        "year": "2004",
+        "duration": "1h 59m"
+    },
+    "163": {
+        "name": "Lock, Stock and Two Smoking Barrels",
+        "rating": "8.1",
+        "year": "1998",
+        "duration": "1h 47m"
+    },
+    "164": {
+        "name": "El Secreto De Sus Ojos",
+        "rating": "8.2",
+        "year": "2009",
+        "duration": "2h 9m"
+    },
+    "165": {
+        "name": "Inside Out",
+        "rating": "8.1",
+        "year": "2015",
+        "duration": "1h 35m"
+    },
+    "166": {
+        "name": "Prisoners",
+        "rating": "8.1",
+        "year": "2013",
+        "duration": "2h 33m"
+    },
+    "167": {
+        "name": "Three Billboards Outside Ebbing, Missouri",
+        "rating": "8.1",
+        "year": "2017",
+        "duration": "1h 55m"
+    },
+    "168": {
+        "name": "Trainspotting",
+        "rating": "8.1",
+        "year": "1996",
+        "duration": "1h 33m"
+    },
+    "169": {
+        "name": "The Bridge on the River Kwai",
+        "rating": "8.1",
+        "year": "1957",
+        "duration": "2h 41m"
+    },
+    "170": {
+        "name": "Fargo",
+        "rating": "8.1",
+        "year": "1996",
+        "duration": "1h 38m"
+    },
+    "171": {
+        "name": "Warrior",
+        "rating": "8.1",
+        "year": "2011",
+        "duration": "2h 20m"
+    },
+    "172": {
+        "name": "Gran Torino",
+        "rating": "8.1",
+        "year": "2008",
+        "duration": "1h 56m"
+    },
+    "173": {
+        "name": "Catch Me If You Can",
+        "rating": "8.1",
+        "year": "2002",
+        "duration": "2h 21m"
+    },
+    "174": {
+        "name": "My Neighbour Totoro",
+        "rating": "8.1",
+        "year": "1988",
+        "duration": "1h 26m"
+    },
+    "175": {
+        "name": "Million Dollar Baby",
+        "rating": "8.1",
+        "year": "2004",
+        "duration": "2h 12m"
+    },
+    "176": {
+        "name": "Bacheha-Ye Aseman",
+        "rating": "8.2",
+        "year": "1997",
+        "duration": "1h 29m"
+    },
+    "177": {
+        "name": "Klaus",
+        "rating": "8.2",
+        "year": "2019",
+        "duration": "1h 36m"
+    },
+    "178": {
+        "name": "Harry Potter and the Deathly Hallows: Part 2",
+        "rating": "8.1",
+        "year": "2011",
+        "duration": "2h 10m"
+    },
+    "179": {
+        "name": "Blade Runner",
+        "rating": "8.1",
+        "year": "1982",
+        "duration": "1h 57m"
+    },
+    "180": {
+        "name": "The Gold Rush",
+        "rating": "8.1",
+        "year": "1925",
+        "duration": "1h 35m"
+    },
+    "181": {
+        "name": "12 Years a Slave",
+        "rating": "8.1",
+        "year": "2013",
+        "duration": "2h 14m"
+    },
+    "182": {
+        "name": "Before Sunrise",
+        "rating": "8.1",
+        "year": "1995",
+        "duration": "1h 41m"
+    },
+    "183": {
+        "name": "The Grand Budapest Hotel",
+        "rating": "8.1",
+        "year": "2014",
+        "duration": "1h 39m"
+    },
+    "184": {
+        "name": "Ben-Hur",
+        "rating": "8.1",
+        "year": "1959",
+        "duration": "3h 32m"
+    },
+    "185": {
+        "name": "Gone Girl",
+        "rating": "8.1",
+        "year": "2014",
+        "duration": "2h 29m"
+    },
+    "186": {
+        "name": "On the Waterfront",
+        "rating": "8.1",
+        "year": "1954",
+        "duration": "1h 48m"
+    },
+    "187": {
+        "name": "Barry Lyndon",
+        "rating": "8.1",
+        "year": "1975",
+        "duration": "3h 5m"
+    },
+    "188": {
+        "name": "The General",
+        "rating": "8.1",
+        "year": "1926",
+        "duration": "1h 18m"
+    },
+    "189": {
+        "name": "In the Name of the Father",
+        "rating": "8.1",
+        "year": "1993",
+        "duration": "2h 13m"
+    },
+    "190": {
+        "name": "Smultronst\u00e4llet",
+        "rating": "8.1",
+        "year": "1957",
+        "duration": "1h 31m"
+    },
+    "191": {
+        "name": "Hacksaw Ridge",
+        "rating": "8.1",
+        "year": "2016",
+        "duration": "2h 19m"
+    },
+    "192": {
+        "name": "The Deer Hunter",
+        "rating": "8.1",
+        "year": "1978",
+        "duration": "3h 3m"
+    },
+    "193": {
+        "name": "The Third Man",
+        "rating": "8.1",
+        "year": "1949",
+        "duration": "1h 44m"
+    },
+    "194": {
+        "name": "Salinui Chueok",
+        "rating": "8.1",
+        "year": "2003",
+        "duration": "2h 11m"
+    },
+    "195": {
+        "name": "Le Salaire De La Peur",
+        "rating": "8.2",
+        "year": "1953",
+        "duration": "2h 11m"
+    },
+    "196": {
+        "name": "Sherlock Jr",
+        "rating": "8.2",
+        "year": "1924",
+        "duration": "45m"
+    },
+    "197": {
+        "name": "Relatos Salvajes",
+        "rating": "8.1",
+        "year": "2014",
+        "duration": "2h 2m"
+    },
+    "198": {
+        "name": "Mr",
+        "rating": "8.1",
+        "year": "1939",
+        "duration": "2h 9m"
+    },
+    "199": {
+        "name": "Mad Max: Fury Road",
+        "rating": "8.1",
+        "year": "2015",
+        "duration": "2h"
+    },
+    "200": {
+        "name": "Dead Poets Society",
+        "rating": "8.1",
+        "year": "1989",
+        "duration": "2h 8m"
+    },
+    "201": {
+        "name": "Mary and Max",
+        "rating": "8.1",
+        "year": "2009",
+        "duration": "1h 32m"
+    },
+    "202": {
+        "name": "Monsters, Inc",
+        "rating": "8.1",
+        "year": "2001",
+        "duration": "1h 32m"
+    },
+    "203": {
+        "name": "How to Train Your Dragon",
+        "rating": "8.1",
+        "year": "2010",
+        "duration": "1h 38m"
+    },
+    "204": {
+        "name": "Jaws",
+        "rating": "8.1",
+        "year": "1975",
+        "duration": "2h 4m"
+    },
+    "205": {
+        "name": "Det Sjunde Inseglet",
+        "rating": "8.1",
+        "year": "1957",
+        "duration": "1h 36m"
+    },
+    "206": {
+        "name": "Room",
+        "rating": "8.1",
+        "year": "2015",
+        "duration": "1h 58m"
+    },
+    "207": {
+        "name": "Tokyo Story",
+        "rating": "8.2",
+        "year": "1953",
+        "duration": "2h 16m"
+    },
+    "208": {
+        "name": "The Big Lebowski",
+        "rating": "8.1",
+        "year": "1998",
+        "duration": "1h 57m"
+    },
+    "209": {
+        "name": "Ford v",
+        "rating": "8.1",
+        "year": "2019",
+        "duration": "2h 32m"
+    },
+    "210": {
+        "name": "La passion de Jeanne d'Arc",
+        "rating": "8.2",
+        "year": "1928",
+        "duration": "1h 50m"
+    },
+    "211": {
+        "name": "Ratatouille",
+        "rating": "8.1",
+        "year": "2007",
+        "duration": "1h 51m"
+    },
+    "212": {
+        "name": "Hotel Rwanda",
+        "rating": "8.1",
+        "year": "2004",
+        "duration": "2h 1m"
+    },
+    "213": {
+        "name": "Rocky",
+        "rating": "8.1",
+        "year": "1976",
+        "duration": "2h"
+    },
+    "214": {
+        "name": "Platoon",
+        "rating": "8.1",
+        "year": "1986",
+        "duration": "2h"
+    },
+    "215": {
+        "name": "Logan",
+        "rating": "8.1",
+        "year": "2017",
+        "duration": "2h 17m"
+    },
+    "216": {
+        "name": "Spotlight",
+        "rating": "8.1",
+        "year": "2015",
+        "duration": "2h 9m"
+    },
+    "217": {
+        "name": "The Terminator",
+        "rating": "8.1",
+        "year": "1984",
+        "duration": "1h 47m"
+    },
+    "218": {
+        "name": "Jai Bhim",
+        "rating": "8.8",
+        "year": "2021",
+        "duration": "2h 44m"
+    },
+    "219": {
+        "name": "Before Sunset",
+        "rating": "8.1",
+        "year": "2004",
+        "duration": "1h 20m"
+    },
+    "220": {
+        "name": "Rush",
+        "rating": "8.1",
+        "year": "2013",
+        "duration": "2h 3m"
+    },
+    "221": {
+        "name": "Network",
+        "rating": "8.1",
+        "year": "1976",
+        "duration": "2h 1m"
+    },
+    "222": {
+        "name": "Stand by Me",
+        "rating": "8.1",
+        "year": "1986",
+        "duration": "1h 29m"
+    },
+    "223": {
+        "name": "The Best Years of Our Lives",
+        "rating": "8.1",
+        "year": "1946",
+        "duration": "2h 50m"
+    },
+    "224": {
+        "name": "Into the Wild",
+        "rating": "8.1",
+        "year": "2007",
+        "duration": "2h 28m"
+    },
+    "225": {
+        "name": "The Wizard of Oz",
+        "rating": "8.1",
+        "year": "1939",
+        "duration": "1h 42m"
+    },
+    "226": {
+        "name": "La haine",
+        "rating": "8.1",
+        "year": "1995",
+        "duration": "1h 38m"
+    },
+    "227": {
+        "name": "The Incredibles",
+        "rating": "8.0",
+        "year": "2004",
+        "duration": "1h 55m"
+    },
+    "228": {
+        "name": "The Exorcist",
+        "rating": "8.1",
+        "year": "1973",
+        "duration": "2h 2m"
+    },
+    "229": {
+        "name": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "rating": "8.1",
+        "year": "2003",
+        "duration": "2h 23m"
+    },
+    "230": {
+        "name": "To Be or Not to Be",
+        "rating": "8.2",
+        "year": "1942",
+        "duration": "1h 39m"
+    },
+    "231": {
+        "name": "Groundhog Day",
+        "rating": "8.0",
+        "year": "1993",
+        "duration": "1h 41m"
+    },
+    "232": {
+        "name": "Babam Ve Oglum",
+        "rating": "8.2",
+        "year": "2005",
+        "duration": "1h 52m"
+    },
+    "233": {
+        "name": "La battaglia di Algeri",
+        "rating": "8.1",
+        "year": "1966",
+        "duration": "2h 1m"
+    },
+    "234": {
+        "name": "The Grapes of Wrath",
+        "rating": "8.1",
+        "year": "1940",
+        "duration": "2h 9m"
+    },
+    "235": {
+        "name": "Hachi: A Dog's Tale",
+        "rating": "8.1",
+        "year": "2009",
+        "duration": "1h 33m"
+    },
+    "236": {
+        "name": "Ah-ga-ssi",
+        "rating": "8.1",
+        "year": "2016",
+        "duration": "2h 25m"
+    },
+    "237": {
+        "name": "Pather Panchali",
+        "rating": "8.2",
+        "year": "1955",
+        "duration": "2h 5m"
+    },
+    "238": {
+        "name": "Amores perros",
+        "rating": "8.1",
+        "year": "2000",
+        "duration": "2h 34m"
+    },
+    "239": {
+        "name": "Rebecca",
+        "rating": "8.1",
+        "year": "1940",
+        "duration": "2h 10m"
+    },
+    "240": {
+        "name": "Cool Hand Luke",
+        "rating": "8.1",
+        "year": "1967",
+        "duration": "2h 7m"
+    },
+    "241": {
+        "name": "The Sound of Music",
+        "rating": "8.1",
+        "year": "1965",
+        "duration": "2h 52m"
+    },
+    "242": {
+        "name": "Guardians of the Galaxy Vol",
+        "rating": "8.1",
+        "year": "2023",
+        "duration": "2h 30m"
+    },
+    "243": {
+        "name": "It Happened One Night",
+        "rating": "8.1",
+        "year": "1934",
+        "duration": "1h 45m"
+    },
+    "244": {
+        "name": "The 400 Blows",
+        "rating": "8.1",
+        "year": "1959",
+        "duration": "1h 39m"
+    },
+    "245": {
+        "name": "Persona",
+        "rating": "8.1",
+        "year": "1966",
+        "duration": "1h 25m"
+    },
+    "246": {
+        "name": "The Iron Giant",
+        "rating": "8.1",
+        "year": "1999",
+        "duration": "1h 26m"
+    },
+    "247": {
+        "name": "The Help",
+        "rating": "8.1",
+        "year": "2011",
+        "duration": "2h 26m"
+    },
+    "248": {
+        "name": "Life of Brian",
+        "rating": "8.0",
+        "year": "1979",
+        "duration": "1h 34m"
+    },
+    "249": {
+        "name": "Aladdin",
+        "rating": "8.0",
+        "year": "1992",
+        "duration": "1h 30m"
+    },
+    "250": {
+        "name": "Dances with Wolves",
+        "rating": "8.0",
+        "year": "1990",
+        "duration": "3h 1m"
+    }
+}
